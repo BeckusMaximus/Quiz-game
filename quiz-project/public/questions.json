@@ -1,0 +1,126 @@
+{
+  "subjects": [
+    {
+      "subject": "JavaScript",
+      "questions": [
+        {
+          "question": "Which of the following is a way to declare a variable in JavaScript?",
+          "answers": [
+            { "text": "var", "isCorrect": true },
+            { "text": "constvar", "isCorrect": false },
+            { "text": "letvar", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What does the 'typeof' operator return for an array?",
+          "answers": [
+            { "text": "'object'", "isCorrect": true },
+            { "text": "'array'", "isCorrect": false },
+            { "text": "'null'", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which of the following is a JavaScript data type?",
+          "answers": [
+            { "text": "Float", "isCorrect": false },
+            { "text": "Boolean", "isCorrect": true },
+            { "text": "Byte", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "HTML",
+      "questions": [
+        {
+          "question": "Which HTML tag is used to define an internal stylesheet?",
+          "answers": [
+            { "text": "<style>", "isCorrect": true },
+            { "text": "<css>", "isCorrect": false },
+            { "text": "<script>", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What is the correct HTML element for the largest heading?",
+          "answers": [
+            { "text": "<h1>", "isCorrect": true },
+            { "text": "<heading>", "isCorrect": false },
+            { "text": "<h6>", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which attribute is used to specify the source of an image?",
+          "answers": [
+            { "text": "src", "isCorrect": true },
+            { "text": "href", "isCorrect": false },
+            { "text": "link", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CSS",
+      "questions": [
+        {
+          "question": "Which property is used to change the text color in CSS?",
+          "answers": [
+            { "text": "color", "isCorrect": true },
+            { "text": "font-color", "isCorrect": false },
+            { "text": "text-color", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "How do you select an element with the class 'container' in CSS?",
+          "answers": [
+            { "text": ".container", "isCorrect": true },
+            { "text": "#container", "isCorrect": false },
+            { "text": "*container", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which CSS property controls the size of text?",
+          "answers": [
+            { "text": "font-size", "isCorrect": true },
+            { "text": "text-style", "isCorrect": false },
+            { "text": "font-style", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Accessibility",
+      "questions": [
+        {
+          "question": "Which HTML attribute is used to provide an accessible name for an image?",
+          "answers": [
+            { "text": "alt", "isCorrect": true },
+            { "text": "title", "isCorrect": false },
+            { "text": "src", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "What does WCAG stand for in web accessibility?",
+          "answers": [
+            {
+              "text": "Web Content Accessibility Guidelines",
+              "isCorrect": true
+            },
+            {
+              "text": "Website Compliance and Accessibility Guide",
+              "isCorrect": false
+            },
+            { "text": "World Content Accessibility Group", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Which role attribute is used to define a navigation landmark?",
+          "answers": [
+            { "text": "navigation", "isCorrect": true },
+            { "text": "nav", "isCorrect": false },
+            { "text": "link", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  ]
+}

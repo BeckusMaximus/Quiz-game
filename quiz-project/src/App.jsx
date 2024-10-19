@@ -22,7 +22,6 @@ const router = createBrowserRouter(
 function App() {
   return (
     <>
-      <h1 className="text-5xl">Welcome to the Quiz App</h1>
       <Outlet /> {/* This renders the child routes */}
     </>
   );
